@@ -1,0 +1,23 @@
+1. Explain what javaScript is and the role of it in web development.
+
+Ans: JavaScript is a versatile and widely-used programming language primarilly used for web development. It plays a crucial role in enhancing the interativity and functionality of websites.
+    
+                                                  Key Role in Web Development:
+
+1. Enhancing User Experience: 
+ JavaScript allows developers to create dynamic and interactive web pages. It can be used to build features like sliders, form validation, pop-up dialogs, and other user interface elements that respond to user actions without the need for full page reloads.
+
+2. Fetching Data:
+ JavaScript can make asynchronous requests to servers (AJAX) to retrieve data in the background, making web applications more responsive and efficient.
+
+3. Interactivity: 
+ It enables event handling, enabling developers to define how a web page should respond to various user interactions such as clicks, keystrokes, and mouse movements.
+
+4. Validation: 
+ JavaScript can be used for client-side form validation, ensuring that user input is correct before being submitted to the server.
+
+5. Animations and Effects:
+ JavaScript is often used to create animations, transitions, and other visual effects that improve the user experience.
+
+6. Third-Party Libraries and Frameworks:
+ Developers often use JavaScript libraries and frameworks like jQuery, React, Angular, and Vue.js to streamline development and build complex web applications.

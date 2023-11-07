@@ -1,0 +1,26 @@
+2. Explain the key difference between JavaScript and HTML. Provide examples of situations where you would use each.
+
+ ANS:
+
+    The key difference between JavaScript and HTML are as follows:
+
+    (i) HTML is a markup language used to structure the content and layout of the web pages. It defines the elements and their arrangement on a web page.
+        whereas,
+        JavaScript is a programming language used to add Interactivity, manipulate the Document Object Model(DOM), and create dynamic behavior in the web pages.
+
+   (ii) HTML provides the static and conntent of a web page. It describes how the content should be displayed, but it does not interativity or dynamic behavior.
+        whereas,
+        JavaScript allows for the creation of dynamic and interactive web content. It can respond to user actions, modify page elements fetch data from servers and more.
+
+  (iii) Examples of HTML Use:
+        Defining Content: HTML is used to create the basic structure of a web page, including headings, paragraphs, lists, images, links, and other content elements.
+        Page Layout: It specifies the layout and structure of the page, including the use of headings, sections, headers, footers, and sidebars.
+        Forms: HTML is used to create input forms for user data collection, such as text fields, checkboxes, radio buttons, and submit buttons.
+
+        whereas,
+
+        Examples of JavaScript Use:
+        Event Handling: JavaScript can respond to user actions like clicks, mouse movements, and keyboard input. For example, you can use JavaScript to create a button that displays an alert when clicked.
+        DOM Manipulation: JavaScript can modify the content and structure of a web page in real-time. For instance, you can use JavaScript to change the text of an HTML element.
+        Data Validation: JavaScript can validate user input in web forms before submission, ensuring that the data entered is correct and matches specified criteria.
+        Asynchronous Requests: JavaScript can make AJAX requests to servers to fetch and display data without requiring a full page reload. This is commonly used in features like search suggestions and real-time updates.

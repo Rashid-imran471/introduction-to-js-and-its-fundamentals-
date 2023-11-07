@@ -1,0 +1,17 @@
+4. What is the purpose of declaring variables in JavaScript, and how do you declare them using the 'let' keyword?
+
+ANS:
+    Variable Declaration Purpose:
+    Reserving Memory: When you declare a variable using let, you're reserving memory space to store a value. This value can be assigned and reassigned as needed during the program's execution.
+
+    To declare a variable using the let keyword in JavaScript, you simply use the following syntax:
+        let variableName;
+
+    Here's a step-by-step explanation of how to declare a variable with let:
+
+    1. Start with the let keyword.
+    2. Follow the let keyword with a space.
+    3. Provide a descriptive name for your variable. This is known as the variable identifier or variable name.
+    4. End the declaration with a semicolon (;) to terminate the statement. While JavaScript allows omitting the semicolon in some cases, it's considered good practice to include it.
+
+
